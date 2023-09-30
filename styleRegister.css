@@ -4,9 +4,11 @@ body{
 }
 
 .login-box{
-    font-size: xx-large;
-    background-color: rgb(231, 228, 228);
+    font-size: x-large;
+    background-color:transparent;
     width: 80%;
+    margin-bottom: 350px;
+    
 }
 header{
     position: fixed;
@@ -34,7 +36,16 @@ header{
     font-size: x-large;
     text-decoration: none;
     position: unset;
+    
 }
 center{
     font-size: xx-large;
 }
+form{
+    border: 2px solid black;
+    width: 350px;
+    margin: 20px;
+    
+}
+
+
