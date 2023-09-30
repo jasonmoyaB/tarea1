@@ -1,8 +1,5 @@
 body{
-    background-color: azure;
-    margin: 0;
-    padding: 90px 20px 0;
-    box-sizing: border-box;  
+    background:url(https://dr.savee-cdn.com/things/6/4/fa4e5ca1fc057e901242ca.webp);
 
 }
 header{
@@ -48,8 +45,3 @@ article{
     background-color: rgb(182, 180, 180);
     width: 80%;
 }
-
-    
-
-
-
